@@ -1,2 +1,2 @@
 # Number Plate Recognition
-# Made by Dũng & Lễ
+# Made by Lẩu dê
