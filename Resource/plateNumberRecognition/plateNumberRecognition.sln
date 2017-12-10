@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plateNumberRecognition", "plateNumberRecognition\plateNumberRecognition.vcxproj", "{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Debug|x64.ActiveCfg = Debug|x64
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Debug|x64.Build.0 = Debug|x64
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Debug|x86.Build.0 = Debug|Win32
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Release|x64.ActiveCfg = Release|x64
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Release|x64.Build.0 = Release|x64
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Release|x86.ActiveCfg = Release|Win32
+		{B67A70EC-CF29-4C8E-9FC2-4C6F08CAD6CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E729EA5-B827-4A46-B25F-703FBF7C226F}
+	EndGlobalSection
+EndGlobal
