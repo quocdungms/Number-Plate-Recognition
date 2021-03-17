@@ -1,2 +1,2 @@
 # Number Plate Recognition
-# Made by Lẩu dê
+# Embedded system Assignment
