@@ -1,2 +1,2 @@
 # Number Plate Recognition
-# Embedded system Assignment
+# Digital Signal Processing Assignment
